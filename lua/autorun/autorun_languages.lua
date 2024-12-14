@@ -1,0 +1,1 @@
+UpLib.LoadAddon("languages/")
