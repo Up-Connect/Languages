@@ -4,5 +4,6 @@ Languages.RegisterSentences("drugs", "de", {
 	["readyToRemove"] = "Bereit zum entnehmen",
 	["badQuality"] = "Schlechte Qualität",
 	["goodQuality"] = "Gute Qualität",
-	["modusChanged"] = "Modus geändert zu {{ name }}"
+	["modusChanged"] = "Modus geändert zu {{ name }}",
+	["dontChangeBarrel"] = "Der Modus kann nicht geändert werden, während Fässer angeschlossen sind."
 })
