@@ -1,5 +1,5 @@
 Languages.RegisterSentences("admin", "de", {
-	["prefix"] = "Admin",
+	["prefix"] = "Admin.",
 	["changedPermissions"] = "Du hast die Rechte von {{ name }} geändert",
 	["noPermissions"] = "Dazu hast du keine Rechte ({{ permissions }})",
 	["createGroup"] = "Du hast eine Gruppe mit dem Namen \"{{ name }}\" erstellt.",
